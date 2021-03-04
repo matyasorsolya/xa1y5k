@@ -21,7 +21,7 @@ public class Betucsere {
 
 		String line = br.readLine();
 		while (line != null) {
-			System.out.println(line);
+			//System.out.println(line);
 			char[] betu = line.toCharArray();
 
 			for (int i = 0; i < betu.length; i++) {
@@ -41,7 +41,7 @@ public class Betucsere {
 		}
 		
 		
-		System.out.println(kodolas.toString());
+		//System.out.println(kodolas.toString());
 		
 		pw.println(kodolas.toString());
 		
