@@ -1,0 +1,4 @@
+2021-52-26 11:52:50 : Elsõ sor - ékezet tesztelés
+2021-53-26 11:53:10 : 2. sor - szám tesztelés
+2021-53-26 11:53:25 : Harmadik sor - mert három a magyar igazság
+2021-53-26 11:53:43 : +1 a ráadás
